@@ -1,6 +1,6 @@
 # Setup
 
-## Start Server
+## Install Dependency
 ```
 npm install
 ```
