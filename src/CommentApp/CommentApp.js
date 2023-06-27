@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
+import { useState } from 'react';
 import { COMMENTS } from './data';
-import {CommentList} from './CommentList';
-import {CommentInput} from './CommentInput';
+import CommentList from './CommentList';
+import CommentInput from './CommentInput';
 import CommentFilter from './CommentFilter';
 
 
